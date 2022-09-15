@@ -1,0 +1,14 @@
+site_name: Plant a tree
+nav:
+  - Home: index.md
+  - About: about.md
+  - Getting Started: getting-started.md
+  - API:
+    - "REST": api/rest.md
+  - SDKs:
+    - "Node.js": sdk/node.md
+    - ".NET": sdk/dotnet.md
+    - "Go": sdk/go.md
+    - "Java": sdk/java.md
+theme:
+  name: material
